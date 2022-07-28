@@ -14,4 +14,4 @@ print('+-'*n, end='')
 
 m=a%2
 if m:
-    print("+")
+    print("+") 
