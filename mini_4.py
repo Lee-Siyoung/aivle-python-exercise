@@ -15,3 +15,4 @@ for i in range(1, a+1):
             con+=1
 if con==0:
     print("결과없음")
+ 
